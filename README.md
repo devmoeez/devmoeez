@@ -50,9 +50,7 @@ Cybersecurity student at UMT Lahore and founder of Moz Cartel, building projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [GoDiscount](https://github.com/devmoeez/godiscount) | University project: deals marketplace app with merchant, admin and AI recommendation modules | Flutter, Firebase, Riverpod |
-| [TrustChain Escrow](https://github.com/devmoeez/trustchain-escrow) | Decentralized escrow dApp on the Sepolia testnet | Solidity, React, Ethers.js |
-| [PQC TLS 1.3 Benchmark](https://github.com/devmoeez/pqc-tls13-benchmark) | Thesis research: performance of ML-KEM and ML-DSA in TLS 1.3 | OpenSSL, OQS, Python |
+| [GoDiscount](https://github.com/devmoeez/godiscount) | University project: AI-powered deals app concept with a clickable Golden Path prototype | Figma, HTML/CSS, Flutter (planned) |
 | [QuishingScanner](https://github.com/devmoeez/quishing-scanner) | Android app that detects malicious QR codes (quishing) | Java, ZXing |
 | [Secure Vault Manager](https://github.com/devmoeez/secure-vault-manager) | Multi-process vault using pthreads, fork, IPC and semaphores | C++, POSIX |
 | [CIRS Wazuh Lab](https://github.com/devmoeez/cirs-wazuh-lab) | Cyber incident response lab: Wazuh SIEM vs Kali attacker | Wazuh, Ubuntu, Kali |
