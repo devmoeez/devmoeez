@@ -6,8 +6,8 @@ Cybersecurity student at UMT Lahore and founder of Moz Cartel, building projects
 
 <p align="left">
   <a href="https://mozcartel.com"><img src="https://img.shields.io/badge/Moz%20Cartel-Agency-black?style=flat-square" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-black?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:official.moeez@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-black?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/moeezhashmi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=devmoeez&style=flat-square&color=black" />
 </p>
 
